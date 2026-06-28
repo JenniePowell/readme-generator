@@ -5,4 +5,6 @@ from template import generate_template
 
 answers = get_answers()
 contact_details = get_contact_details()
-readme_content = generate_template(answers)
+readme_content = generate_template(answers, contact_details)
+
+print(readme_content)
