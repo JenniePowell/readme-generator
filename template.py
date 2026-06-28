@@ -34,5 +34,4 @@ def generate_template(answers, contact):
 ## Contact
 
 {contact['contact']}
-    
 """
