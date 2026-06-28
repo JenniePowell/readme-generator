@@ -1,5 +1,3 @@
 requests
 InquirerPy
-rich.table
-rich.console
-rich.progress
+rich
